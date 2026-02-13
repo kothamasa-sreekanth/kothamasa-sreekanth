@@ -1,7 +1,4 @@
 # 💫 About Me:
-Data Analyst with a background in Computer Applications and hands-on experience in SQL and Python.  <br>I enjoy working with large datasets, solving unstructured problems, and transforming data into meaningful insights that support business decisions.<br><br>Skills: SQL | Python | Data Analysis | Data Cleaning | Exploratory Analysis  <br>Interests: Business Intelligence, Data Visualization, Data Analytics  <br>Always learning and improving<br>
-
-# 💫 About Me:
 Data Analyst with a background in Computer Applications and hands-on experience in SQL and Python.  <br>I enjoy working with large datasets, solving unstructured problems, and transforming data into meaningful insights that support business decisions.<br><br>Skills: SQL | Python | Data Analysis | Data Cleaning | Exploratory Analysis  | power BI | pandas | NumPy | Matplotlib<br>Interests: Business Intelligence, Data Visualization, Data Analytics  <br>Always learning and improving<br>
 
 
