@@ -1,18 +1,124 @@
-# 💫 About Me:
-Data Analyst with a background in Computer Applications and hands-on experience in SQL and Python.  <br>I enjoy working with large datasets, solving unstructured problems, and transforming data into meaningful insights that support business decisions.<br><br>Skills: SQL | Python | Data Analysis | Data Cleaning | Exploratory Analysis  | power BI | pandas | NumPy | Matplotlib<br>Interests: Business Intelligence, Data Visualization, Data Analytics  <br>Always learning and improving<br>
+<h1 align="center">📊 Sreekanth Kothamasa</h1>
 
+<p align="center">
+  <b>Data Analyst | Business Intelligence | Data Visualization</b>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sreekanthkothamasa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreekanth-kothamasa07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kothamasasreekanth07@gmail.comd) 
+<p align="center">
+  I'm a data-driven analyst with a background in Computer Applications.
+  I enjoy working with large datasets, solving unstructured problems,
+  and transforming raw data into meaningful insights that support
+  data-driven business decisions.
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kothamasa-sreekanth&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kothamasa-sreekanth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kothamasa-sreekanth&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Analytics-green?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data-Visualization-orange?style=for-the-badge"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=kothamasa-sreekanth&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">🛠 Languages & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="38"/>
+</p>
+
+<hr>
+
+<h2 align="center">🧩 What I Do</h2>
+
+<p align="center">
+  Data Cleaning & Analysis • Exploratory Data Analysis • Dashboard Development • Business Insights
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Cleaning-informational?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Visualization-informational?style=flat&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-informational?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Automation-informational?style=flat&logo=python&logoColor=white"/>
+</p>
+
+<hr>
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="33%" valign="top" align="center">
+<h4>📊 Sales Analytics Dashboard</h4>
+<p>
+Interactive Power BI dashboard analyzing sales trends,
+KPIs, and performance metrics for business decision-making.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-blue?style=flat"/>
+<img src="https://img.shields.io/badge/KPI-Analysis-green?style=flat"/>
+</p>
+</td>
+
+<td width="33%" valign="top" align="center">
+<h4>🧹 Data Cleaning & EDA Project</h4>
+<p>
+Exploratory data analysis using Python, Pandas, NumPy,
+and Matplotlib to uncover insights and patterns.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-EDA-orange?style=flat"/>
+<img src="https://img.shields.io/badge/Data-Cleaning-purple?style=flat"/>
+</p>
+</td>
+
+<td width="33%" valign="top" align="center">
+<h4>📈 Business Intelligence Reports</h4>
+<p>
+SQL-driven reporting solutions for structured datasets,
+supporting business intelligence and analytics needs.
+</p>
+<p>
+<img src="https://img.shields.io/badge/SQL-Reporting-red?style=flat"/>
+<img src="https://img.shields.io/badge/BI-Insights-blue?style=flat"/>
+</p>
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kothamasa-sreekanth&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=kothamasa-sreekanth&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr>
+
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreekanth-kothamasa07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/sreekanthkothamasa">
+    <img src="https://img.shields.io/badge/Discord-Chat-purple?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:kothamasasreekanth07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+</p>
